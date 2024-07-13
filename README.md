@@ -45,8 +45,8 @@ df = pd.read_csv(url)
 ### Import Data:
 
 Open Power BI Desktop.
-Click on "Get Data" and select "Text/CSV".
-Browse to the CSV file and load the data.
+Click on "Get Data" and select "Python Script".
+Run the script and load the data.
 
 ### Data Preparation:
 
